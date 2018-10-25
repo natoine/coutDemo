@@ -1,0 +1,19 @@
+{
+  "name": "coutdemo",
+  "version": "1.0.0",
+  "description": "une app pour calculer le cout de nos demos chez NP en se basant sur nos docs google drivre",
+  "main": "serveur.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natoine/coutDemo.git"
+  },
+  "author": "natoine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natoine/coutDemo/issues"
+  },
+  "homepage": "https://github.com/natoine/coutDemo#readme"
+}
