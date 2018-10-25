@@ -1,5 +1,6 @@
 #auth
 credentials.json
+myapp/token.json
 
 # Logs
 logs
